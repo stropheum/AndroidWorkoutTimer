@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Workout Timer</string>
+    <string name="action_settings">Settings</string>
+    <string name="time_set">Set timer</string>
+    <string name="cancel">Cancel</string>
+    <string name="time">Time Selected: </string>
+    <string name="timer_display">00:00</string>
+    <string name="start_button">Start</string>
+    <string name="stop_button">Stop</string>
+</resources>
